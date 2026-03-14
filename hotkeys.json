@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "id": "double_qw_to_ctrl_win_u",
+      "description": "双击 q+w 输出 ctrl+cmd+u（Windows/Linux 上 cmd 可理解为 Win）",
+      "trigger": "ctrl",
+      "output": "ctrl+lcmd+u",
+      "count": 2,
+      "max_interval": 0.8,
+      "block_source": false,
+      "enabled": true
+    }
+  ]
+}

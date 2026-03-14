@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Build outputs
+build/
+dist/
+*.spec
+
+# Logs
+logs/
+*.log
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup / temp
+备份1/
+备份2/
+*备份*.py
+*备份*.json
+1.txt
+text.py
+app_settings.json
+
+# UPX tools
+upx/
+
+# Optional local configs
+*.bak
+*.tmp
